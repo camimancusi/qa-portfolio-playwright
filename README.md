@@ -5,7 +5,7 @@
 An end-to-end test suite I wrote to show how I automate: readable tests, page objects, seeded state instead of repeated logins, and no hard waits. It runs against [Sauce Demo](https://www.saucedemo.com), a public practice store, so anyone can run it.
 
 **Author:** Camila Mancusi — Project Manager & QA · [LinkedIn](https://linkedin.com/in/camilamancusi)
-
+> **AI-assisted:** this suite was built with the help of an AI coding assistant. I defined the scope, ran it and keep it green in CI.
 ## What it covers
 
 | Area | Tests | What they protect |
